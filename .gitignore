@@ -1,0 +1,18 @@
+# PlatformIO build and environment folders
+.pio/
+.vscode/
+backup/
+__pycache__/
+*.pyc
+secrets.h
+# Python virtual environment
+.venv/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries and logs
+*.elf
+*.bin
+*.log
